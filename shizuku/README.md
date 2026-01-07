@@ -1,4 +1,5 @@
----
+List of devices attached
+XXX      device---
 home: true
 heroImage: /logo.png
 actionText: Learn more
@@ -9,7 +10,8 @@ features:
 - title: Supports adb usage
   details: If your "root required app" only needs adb permission, you can easily expand the audience by using Shizuku.
 - title: Save your time
-  details: Shizuku has detailed documentation to guide users. Only you need to do is to let the users install Shizuku.
+  details: Shizuku has detailed documentation to guide users. Only
+  you need to do is to let the users install Shizuku.
 footer: Copyright © 2019 RikkaApps
 ---
 
